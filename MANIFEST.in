@@ -1,0 +1,2 @@
+include qathir/VERSION.txt 
+include README.md
